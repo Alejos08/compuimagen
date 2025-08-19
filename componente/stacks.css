@@ -1,0 +1,49 @@
+.stacks {
+    margin-top: 20px;
+}
+
+.stacks h3 {
+    font-size : size 18px;
+
+}
+
+.stacks ul {
+    list-style:none;
+
+    display: flex;
+    gap: 10px;
+
+}
+
+.stacks ul li {
+    border: 1px solid black;
+    border-radius: 3px;
+    padding: 7px 20px;
+    margin-top:10px;
+
+}
+
+.html {
+    background-color: rgb(208, 11, 11);
+    color: rgb(87, 11, 11);
+    font-weight: 600;
+}
+
+.css {
+    background-color: rgb(119, 10, 10);
+    color: rgb(216, 23, 23);
+    font-weight: 600;
+}
+
+.windows {
+    background-color: rgb(109, 31, 31);
+    color: rgb(198, 72, 47);
+    font-weight: 600;
+
+}
+
+.code {
+    background-color: rgb(255, 35, 35);
+    color: rgb(103, 20, 20);
+    font-weight: 600;
+}
